@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Macky Tall Welcome to my Github profile!
 
-Welcome to my Github profile!
+### Welcome to my Github profile!
 
 ## 👨‍💻 About Me
 - 🎓 I'm a developer and computer science student currently exploring the world of code. 
