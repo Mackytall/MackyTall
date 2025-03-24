@@ -3,10 +3,10 @@
 Welcome to my Github profile!
 
 👨‍💻 About Me
-🎓 I'm a developer and computer science student currently exploring the world of code. 
-🤖 I have a strong interest in logic, algorithms, and solving complex problems, which makes me particularly enjoy back-end development. 
-🎨 I also love expressing creativity through code and bringing ideas to life, so I have fun working on front-end development as well. 
-💬 Feel free to reach out if you want to collaborate, discuss tech, or just have a chat.
+- 🎓 I'm a developer and computer science student currently exploring the world of code. 
+- 🤖 I have a strong interest in logic, algorithms, and solving complex problems, which makes me particularly enjoy back-end development. 
+- 🎨 I also love expressing creativity through code and bringing ideas to life, so I have fun working on front-end development as well. 
+- 💬 Feel free to reach out if you want to collaborate, discuss tech, or just have a chat.
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
