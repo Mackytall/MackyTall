@@ -2,11 +2,11 @@
 
 Welcome to my Github profile!
 
-## 😄 About Me
+## 👨‍💻 About Me
 - 🎓 I'm a developer and computer science student currently exploring the world of code. 
 - 🤖 I have a strong interest in logic, algorithms, and solving problems, which makes me particularly enjoy back-end development. 
-- 🎨 I also love expressing creativity through code and bringing ideas to life, so I have fun working on front-end development as well. 
-- 💬 Feel free to reach out if you want to discuss tech, or just have a chat.
+- 🎨 I also love expressing creativity through code and bringing ideas to life, so I have fun working on front-end development as well.
+- 🌿 I'm all about enjoying nature, hitting the trails, and embracing the simple life!
 
 ## 🚀 My Skills
 - 📱 Building responsive mobile user interfaces for Android and iOS using Flutter.
@@ -14,6 +14,9 @@ Welcome to my Github profile!
 - ⚙️ Developing APIs with Express.js in a Node.js environment.
 -🗄️ Working with databases: I can use MySQL or Oracle for relational data. I can also use MongoDB for NoSQL solutions.
 - 💻 I have experience with other languages such as PHP, C, and Java... I have a particular love OOP with Java.
+  
+
+###  😄 Feel free to reach out if you want to discuss tech, or just have a chat.
 
 <!--
 - 🔭 I’m currently working on ...
