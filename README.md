@@ -12,8 +12,8 @@
 - 📱 Building responsive mobile user interfaces for Android and iOS using Flutter.
 - 🎨 Designing dynamic and engaging web interfaces with React.js.
 - ⚙️ Developing APIs with Express.js in a Node.js environment.
--🗄️ Working with databases: I can use MySQL or Oracle for relational data. I can also use MongoDB for NoSQL solutions.
-- 💻 I have experience with other languages such as PHP, C, and Java... I have a particular love OOP with Java.
+- 🗄️ Working with databases: I can use MySQL or Oracle for relational data. I can also use MongoDB for NoSQL solutions.
+- 💻 I have experience with other languages such as PHP, C, and Java... I have a particular love for OOP with Java.
   
 
 ###  😄 Feel free to reach out if you want to discuss tech, or just have a chat.
