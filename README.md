@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Macky Tall. Welcome to my Github profile!
+# 👋 Hey there, I'm Macky Tall
 
 ### Welcome to my Github profile!
 
